@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercuries message defended, against the vain, foolish, simple, and absurd cavils of Thomas Herbert a ridiculous ballad-maker. Wherein, his witlesse answers are clearly confuted, himselfe found guilty of hypocrisie, catcht broaching of popery, condemned by his owne words, and here and there for his impudent saucinesse jerkt with the rod of correction, to teach him more manners when he writes again. By the author of the said Mercuries message.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89061</idno>
+            <idno type="STC">Wing M1747</idno>
+            <idno type="STC">Thomason E160_13</idno>
+            <idno type="STC">ESTC R22299</idno>
+            <idno type="EEBO-CITATION">99871697</idno>
+            <idno type="PROQUEST">99871697</idno>
+            <idno type="VID">156916</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89061)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156916)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E160[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercuries message defended, against the vain, foolish, simple, and absurd cavils of Thomas Herbert a ridiculous ballad-maker. Wherein, his witlesse answers are clearly confuted, himselfe found guilty of hypocrisie, catcht broaching of popery, condemned by his owne words, and here and there for his impudent saucinesse jerkt with the rod of correction, to teach him more manners when he writes again. By the author of the said Mercuries message.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[2], 22 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed. 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed : Mercurius.</note>
+                  <note>Attributed to John Taylor in the Wrenn catalogue.</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Herbert, Thomas, 1597-1642? --  Answer to the most envious, scandalous, and libellous pamphlet, entituled Mercuries message.</term>
+               <term>Laud, William, 1573-1645.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156916:1" rendition="simple:additions"/>
+            <p>
+               <hi>MERC<g ref="char:V">Ʋ</g>RIES</hi> MESSAGE Defended, Againſt the vain, fooliſh, ſimple, and abſurd cavils of THOMAS HERBERT a ridiculous Ballad-maker. Wherein, his witleſſe anſwers are clearly confuted, himſelfe found guilty of Hypocriſie, catcht broaching of Popery, condemned by his owne words, and here and there for his impudent ſauci<g ref="char:EOLhyphen"/>neſſe jerkt with the Rod of Correction, to teach him more manners when he writes again. By the Author of the ſaid <hi>Mercuries Meſſage.</hi>
+            </p>
+            <figure>
+               <p>Here's your reward</p>
+               <p>Come up ſirra</p>
+               <figDesc>woodcut of a ballad seller (Thomas Herbert) with his head in a noose, being encouraged to mount a gallows; apparently unaware of his predicament, he is trying to offer a ballad to a nobleman (the Archbishop of Canterbury) imprisoned in the Tower of London</figDesc>
+            </figure>
+            <p>London printed <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156916:2"/>
+            <pb n="1" facs="tcp:156916:2"/>
+            <head>MERCVRIES MESSAGE DEFENDED. OR A Replie to the Ridiculous Anſwer, of HERBERT a Ballad-maker.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is a true maxime, verified by daily experience, that the worſt of men ſhal never want diſciples, as bad as them<g ref="char:EOLhyphen"/>ſelves to ſtand up in their defence, and approve of their wickedneſſe.</p>
+            <p>Do the Prieſts of <hi>Baal</hi> ſeek to in<g ref="char:EOLhyphen"/>ſinuate an opinion in the hearts of the Iſraelites,<note place="margin">1 Kings 18.</note> that their dumbe idol is a god? Why, they ſhall not want for a crew of credulous ſpirits, to call upon his name, from morning untill noon, <hi>O Baal hear us.</hi>
+            </p>
+            <p>Doth idolatrous <hi>Ieroboam</hi> ſet up two golden Calves in <hi>Dan</hi> and <hi>Bethel?</hi>
+               <note place="margin">1 Kings 12.</note> there will ſome of the people eaſily be drawne to worſhip.</p>
+            <p>Did the Popes great favourite <hi>William a Canter<g ref="char:EOLhyphen"/>bury</hi> painfully labor to ſuppreſſe the true worſhip of Ieſus Chriſt, and in the place thereof zealouſly en<g ref="char:EOLhyphen"/>deavour to erect a new fardle of ſuperſtitious Ce<g ref="char:EOLhyphen"/>remonies, deviſed by a packe of deluding Ieſuites, and preferred to his Grace by the Whore of <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi> with what facility will a company of indifferent
+<pb n="2" facs="tcp:156916:3"/>Jack a bothſides,<note place="margin">Rev. 3.16.</note> luke-warme Laodiceans, either for hope of preferment, or feare of impriſonment im<g ref="char:EOLhyphen"/>brace and allow theſe his ſtinking traditions?</p>
+            <p>Would you ſee an example of ſuch an impudent act? Do but look upon the ſcurrilous and ſimple An<g ref="char:EOLhyphen"/>ſwer to <hi>Mercuries Meſſage,</hi> and you ſhall plainly per<g ref="char:EOLhyphen"/>ceive it.<note place="margin">Ioſhua 7.25.</note>
+            </p>
+            <p>Here is the Arch-biſhop (who like <hi>Achan</hi> with his Baby loniſh garments hath a long time troubled all Iſrael) charged with high treaſon and impriſoned in the Tower by the Houſe of Commons now hap<g ref="char:EOLhyphen"/>pily aſſembled in Parliament: and there is <hi>Herbert</hi> a poor threedbare ballad-maker writing in his behalfe, againſt the relation of thoſe crimes for the which at this preſent hee is juſtly ſequeſtred, whereby that which at firſt was onely writ and intended as a cloſe quip to reprove the enormities of the times, and the little great Maſter of miſ-rule, then and ſtill in <hi>coram nobis</hi> for his inſolent miſdemeanours formerly practiſed, is now become a matter of controverſie; as though to blow off the Biſhops cap were to under<g ref="char:EOLhyphen"/>mine the Truth of Religion, or as if the ſoiling of his lawne ſleeves could not chuſe but ſully the beauty of the Church; and all this maintained by a Poeti<g ref="char:EOLhyphen"/>call <hi>Ballad-maker.</hi>
+            </p>
+            <p>Well, glad I am to ſee that his Grace has ſome friends ſtill left in this decaying time, but ſorry their number being ſo ſmall, their quality ſhould bee no better.</p>
+            <p>But whither wander I? Is it poſſible that ſuch a miſt of errour ſhould darken mine underſtanding as to think he wrote this Book out of love to the Mitre, or conſcience to Religion? ſurely no, he that reades
+<pb n="3" facs="tcp:156916:3"/>the ſtory ſhall finde no ſuch buſineſſe. But there's a thing called Half a Crowne, the ordinary price of his ridiculous Paſquils, and that was the maine motive inducing my moneyleſſe youngſter to make ſuch a derided and witleſſe Anſwer, who (I will undertake) for as much more ſhall rail more audaciouſly againſt the wickednes of the Biſhop, than ever that impious wretch <hi>Rabſhekah</hi> did againſt the piety of good <hi>Heze<g ref="char:EOLhyphen"/>kiah.</hi>
+               <note place="margin">2 Kings 18.</note> This I ſhall clearly demonſtrate and prove to his face in the examination of his enſuing Anſwer.</p>
+            <p>But to come orderly to my Reply, and give an an<g ref="char:EOLhyphen"/>ſwer to every thing in its proper place, which I ſhall do with as much brevity as may be, few words being ſufficient to confute ſuch an Animal. When firſt I ſaw the title of that pretty piece of ignorance, <hi>An Anſwer to Mercuries Meſſage,</hi> Muſing with my ſelfe what manner of perſon the worthy Authour ſhould be, I either took him to be ſome hanger on at the E<g ref="char:EOLhyphen"/>piſcopall palace in <hi>Lambeth,</hi> or elſe one of the Bi<g ref="char:EOLhyphen"/>ſhops poore attendants at his Court royall neer To<g ref="char:EOLhyphen"/>wer-hill. Which by the fortune of fates is now made a Bower of Grace for my Lords recreation in this de<g ref="char:EOLhyphen"/>lightfull time of the Summer ſeaſon. But had every chamber ſuch a Tenant as his ſmall eſteemed defen<g ref="char:EOLhyphen"/>der, I beleeve it would quickly and might juſtly bee called a Cage of unclean Birds.</p>
+            <p>Thus I ſay, at firſt did I ruminate upon ſome brave oppoſer, but O how mightily was I miſtaken there<g ref="char:EOLhyphen"/>in, for one day being neceſſitated to paſſe through a ſtinking Alley, in a blinde alehouſe, I heard a crew of roaring Ballad-ſingers trouling out a merry Bal<g ref="char:EOLhyphen"/>lad called, <hi>The more knaves the better company.</hi> And one amongſt the reſt cried out, Well ſung <hi>Herbert,</hi>
+               <pb n="4" facs="tcp:156916:4"/>who as it ſeems, bore up the baſe amongſt them, and in that deboiſt manner conſumeth his time, and when his money is all ſpent, (as for the moſt part it is ſix or ſeven times a week) writes a new merry book, a good godly Ballad, or ſome ſuch excellent piece of ſtuffe even as the droppings of the ſpigot inliveneth his muddy muſe, to put his feeble purſe in freſh ſtocke again: looking in at the name <hi>Herbert,</hi> and ſeeing ſuch a poore ragged companion, I tooke him rather to be ſome dung-hill rakers page, than a lackey to the Mu<g ref="char:EOLhyphen"/>ſes. And ſo thought to paſſe by, untill upon better enquiry I was certainly informed that he was the Authour of that much applauded Anſwer.</p>
+            <p>And indeed had I tooke as much paines to have read his lines; as I did to get acquaintance with his honourable perſonage; I might eaſily have conje<g ref="char:EOLhyphen"/>ctured him to have beene ſuch a fellow, for who but he would ſo ſhameleſly &amp; peremptorily (in the very Title of his Book) aſſert three palpable lyes, in two ſhort lines, unleſſe hee had thought no body would have read it but as very fools as himſelfe. Certainly, the young man had been in <hi>Pauls</hi> lately, and fell aſleep againſt one of the yellow pillars, whether it were done willingly or unwillingly I know not, but ſure I am he came out moſt horribly brazen-faced, as by the ſequell I ſhall make it evident. Thus he titles his Book, <hi>An Anſwer to the moſt envious, ſcandalous, and libellous Pamphlet intituled Mercuries Meſſage, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Envious,</hi> What's envious? to tell a wicked man of his faults, <hi>A ſcorner indeed loveth not one that re<g ref="char:EOLhyphen"/>proveth him,</hi>
+               <note place="margin">Prov. 9.7.8 ch. 10.18. ch. 15.10.31, 32. Pro. 12.1.</note> 
+               <hi>Prov.</hi> 15.12. <hi>But give inſtruction to a wiſe man, and he will be yet wiſer, Prov.</hi> 9.9. <hi>Therefore he that loveth inſtruction loveth knowledge, but hee that hateth reproof is brutiſh, Prov.</hi> 12.1.</p>
+            <pb n="5" facs="tcp:156916:4"/>
+            <p>But now methinks I hear you object and ſay,<note place="margin" type="runSum">Object.</note> 'tis true indeed, had the Biſhop been admoniſhed of his evill courſes privately, it had been ſomething: but to divulge his infamy in print, for every rurall fellow to ſcoffe and jeer at: this muſt needs ſpring from an horrible root of envy and maliciouſneſſe.<note place="margin" type="runSum">Anſw.</note> But if Sir <hi>Thomas Wiſeacres</hi> can make this his poſition good by the teſtimony of any authenticke Ballad he hath in his three halfe penny Library: we may ſafely con<g ref="char:EOLhyphen"/>clude <hi>Paul</hi> to bee a man of a lofty ſpirit, and full of malicious ſpleen towards <hi>Peter,</hi> when he blamed him to his face before a great aſſembly of people for do<g ref="char:EOLhyphen"/>ing ſome things amiſſe, as ye may reade, <hi>Gal.</hi> 2.<note place="margin">Gal. 2.11.</note> Nay we may very well ſay that <hi>Solomon</hi> had overſhot his judgement when hee writ this among his Sentences, <hi>Open rebuke is better than ſecret love.</hi>
+               <note place="margin">Pho. 27.5.</note> And thus hath a few boughes cut off from the tree of Gods Word, ſweetned theſe bitter waters of envy which were ſo harſh to be ſwallowed by <hi>Herbert</hi> the Ballad-maker.</p>
+            <p>Let me now inquire what makes it ſo ſcandalous. Is it poſſible to throw any diſgrace upon a man whoſe actions have beene ſo ungracious that hee expects no other <hi>Exit</hi> but by an Axe or an Halter? Such an one as by his notorious life hath made himſelfe an hiſſing and a laughing ſtocke to all <hi>England:</hi> Can this man be ſcandalized? as ſoone will I beleeve that a bucket of water will ſlabber the ſea, becauſe it makes a pud<g ref="char:EOLhyphen"/>dle in a fair hall; as that a man of a corrupt life can be blemiſhed by ill words, becauſe a man of honeſt converſation may. But I would very faine have him anſwer mee this one queſtion, whether it be poſſible for a man to be ſlandered in a matter of truth.<note place="margin" type="runSum">Queſt.</note>
+            </p>
+            <p>What I there writ of the Biſhop all <hi>England</hi> will
+<pb n="6" facs="tcp:156916:5"/>avouch, nay he himſelfe confeſſes to be true; Where then is all this mighty ſcandall you talke of? O but then 'tis <hi>libellous;</hi> libellous, as how I pray? What lyes hath the piercing eye of his blockiſh judgement found in it I wonder? Had he been ſo kinde to have told me, Ile aſſure you they ſhould have been mend<g ref="char:EOLhyphen"/>ed in the next Impreſſion, and that is more than he can doe to his I am confident, unleſſe he take it and throw it into the fire, and then cry, Now I hope all faults are corrected.</p>
+            <p>But by your favour Maſter <hi>Herbert</hi> though you paſt them by ſo ſlightly without naming, I muſt a little preſume upon your patience, whileſt I recapi<g ref="char:EOLhyphen"/>tulate the ſumme of my Booke, to try if I can diſ<g ref="char:EOLhyphen"/>cover theſe falſities you accuſe mee of. I will pro<g ref="char:EOLhyphen"/>pound the queſtions, do you anſwer if you can.</p>
+            <p>And 1. <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>1</label> Doe not our lordly Prelates feare a fall? What's the reaſon then the great One lies thus caged up in the Tower? and the reſt queſtioned in Parlia<g ref="char:EOLhyphen"/>ment for their places? the expectation of all good men being to ſee theſe ſpirituall Lords drove out of their ſeats of juſtice into pulpits of inſtruction, the fitter place of the two.</p>
+            <p>Well, <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>2</label> but did they not domineere in proſperity, perſecuting Gods faithfull people and miniſters that oppoſed their idolatrous ceremonies, ſetting them them in pillories, cutting off their eares, branding them, baniſhing them the land, and a thouſand other cruelties exerciſed in the High Commiſſion, and o<g ref="char:EOLhyphen"/>ther ſuch unconſcionable, illegall Courts, kept by them and a viperous brood of promoters, purſivants, and ſuch like knaviſh dependants; What was the matter then with thoſe three men, M. <hi>Burton,</hi> D. <hi>Baſt<g ref="char:EOLhyphen"/>wicke,</hi>
+               <pb n="7" facs="tcp:156916:5"/>and M. <hi>Prin,</hi> with divers others redeemed out of ſeverall priſons by the Parliament; nay, what means ſuch a numerous company of poor miniſters petitions daily preſented to the honourable Houſe of Commons that have moſt cruelly been thruſt out of all their lands and meanes of maintenance and ſo un<g ref="char:EOLhyphen"/>done, themſelves, their wives and children, becauſe their conſciences would not ſuffer them to ſubmit to ſuch baſe ſuperſtitious ceremonies as were impo<g ref="char:EOLhyphen"/>ſed upon them.</p>
+            <p>Did not our weekly lectures and ſunday afternoon Sermons begin to go downe apace under a pretence of getting infection in the Church of God at Ser<g ref="char:EOLhyphen"/>mons more than at Service: what's the reaſon then that Miniſters durſt not preach upon week-dayes, nor on the Sabbath in the afternoon in many places for fear of ſuſpenſion and diſpleaſing the Biſhop; nay, what meant little <hi>Wren</hi> to flutter about ſo mon<g ref="char:EOLhyphen"/>ſtrouſly and ſilence above 80. in his owne Dioceſſe for ſtanding above an hour in a ſermon, though they preached but once a week.</p>
+            <p>Was it not the Biſhop of <hi>Canterbury</hi> his chiefeſt meanes to perſwade the King to ſet out the booke of Toleration for Sports and Paſtimes on the Lords day, thereby to betray both ſuch good Paſtours of their flock as would not reade it, and deceive the ſouls of the people that too greedily receiv'd it; how comes it to paſſe then, it was never mov'd nor thought on before? Were not altars raiſed and adorned with wax-candles, nay ſome with Images and Crucifixes? Were not men commanded to bow to them as they went forward and backward, and likewiſe to cringe and buckle the knee at the Name of <hi>Ieſus,</hi> though
+<pb n="8" facs="tcp:156916:6"/>the Miniſter were but praying for <hi>Ieſus</hi> College in <hi>Cambridge,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>7</label> or noting ſome proof out of <hi>Ieſus</hi> the ſon of <hi>Sirach.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>8</label> Did not our Epiſcopall Canoneers finely run themſelves into a <hi>premunire,</hi> by making New Canons after the laſt Parliament was diſſolved char<g ref="char:EOLhyphen"/>ging them ſo deepe with an Oath, and &amp;c. that they recoyled in their faces? <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>9</label> And did not theſe things give men juſt cauſe to ſuſpect that the Biſhop had more than a moneths minde to make a match with the Strumpet of <hi>Rome:</hi> but all theſe his projects fail<g ref="char:EOLhyphen"/>ing, hee being catcht napping in his knavery, and committed to the Black Rod to be whipt for his of<g ref="char:EOLhyphen"/>fences; did not every man that could, <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>10</label> toſſe a jeer af<g ref="char:EOLhyphen"/>ter him? was not ſcoffes and flouts of <hi>Canterbury</hi> common in all mens mouthes; alas this is ſo evident that it cannot be denied: and now what's become of all theſe envious, ſcandalous and libellous lines? What, all vaniſht ſo quickly before ſeen? or was it ſome other book you thought on, when you were an<g ref="char:EOLhyphen"/>ſwering mine? ſure ſome ſuch matter, or elſe ſucking too long at the ale-tap had dimm'd your eyes, and ſo made you thinke what you writ your ſelfe in your owne, you had ſeen printed in mine; what ever it was, 'tis fit you ſhould be wound up for your doltiſhneſſe, but I am willing to let you part at a diſtance, for he that cloſes with a begger may expect to part louſie.</p>
+            <p>In the next place, to fill up the Title, we have the reſemblance of an arme holding a knife faſt clencht, as though you had lately made ſome deſperate fray among the two penny pudding-pies in <hi>Fleet-lane,</hi> or perhaps you ſet it there as a direction to your friends to be in readineſſe to cut the rope when you were catcht in a twiſt for your faucy poetry. Thus carp<g ref="char:EOLhyphen"/>ing
+<pb n="9" facs="tcp:156916:6"/>Criticke have I done with the forefront of your book. Give me leave now having ſtood ſo long at the porch, to enter in at the doore, and ſee what orna<g ref="char:EOLhyphen"/>ments are within worth taking notice of.</p>
+            <p>I am perſwaded you are no Phariſee; for if the inſide of the cup be no cleaner than the out, 'tis pitty but ſuch ſlovens ſhould have it knockt about their coxcombs. I ſhall now be more briefe in my ob<g ref="char:EOLhyphen"/>ſervations: ye ſee I have at large maintained the truth of my booke againſt the falſities of your Title, and whether it be done to the full or no, I appeal to any man of honeſty or underſtanding, and let him bee judge. But to the purpoſe:</p>
+            <p>Turne over, behold and wonder, Ha—what's here? a flat cap, narrow ruffe, and lawne ſleeves,<note place="margin">On the backeſide of his Title is the picture of the Bi<g ref="char:EOLhyphen"/>ſhop very ilfavoured drawne, in<g ref="char:EOLhyphen"/>compaſſed with a ſin<g ref="char:EOLhyphen"/>gle ring.</note> ſure it ſtands for the Biſhop of <hi>Canterbury;</hi> but I hope his ſorrows have not ſo ſtrangely metamorphos'd him; Do's he learne to tumble in a hoope tro? perhaps he intends to ſhew tricks in <hi>Bartholmew</hi> Faire; I re<g ref="char:EOLhyphen"/>member there was a ſight laſt yeer called, The decol<g ref="char:EOLhyphen"/>lation of <hi>Iohn</hi> the <hi>baptiſt,</hi> wherein a boyes head was cut off through a table; if he ſtudy ſuch an art of <hi>Le<g ref="char:EOLhyphen"/>gerdemain,</hi> hee I have great reſort to his booth, I war<g ref="char:EOLhyphen"/>rant him. But for all that, ſure the Balladmaker was a little too bold to thruſt a Biſhop on the back ſide of ſuch a knaviſh Title, as if hee had no where elſe to pin his lies but upon father <hi>Williams</hi> Canonicall Ro<g ref="char:EOLhyphen"/>chet; truly it was very unmannerly done. But I pro<g ref="char:EOLhyphen"/>ceed to the book it ſelfe, wherein M. Author you may take notice of your owne words, for they ſhall be ſet in a different letter, that ſo men may underſtand what they reade. For your part I thank you, you made bold to inſert ſome 13. or 14. of my lines alogether to
+<pb n="10" facs="tcp:156916:7"/>credit your book, without giving any anſwer or put<g ref="char:EOLhyphen"/>ting diſtinction between them and your owne patcht poetry; ſo that oftentimes men looking upon that place without reading any further liked it and bought it, but after they had more througly peruſed it, will you hear what their cenſurs were, I warrant ſayes one, the authour of theſe hobling verſes was ſome young <hi>Gregory Nonſence,</hi> that might have been a ſcho<g ref="char:EOLhyphen"/>lar had be not run away from <hi>Cambridge</hi> when he ſhould have been whipt for his knavery: and came up to <hi>London</hi> to write ſcurrilous pamphlets for halfe a crowne a piece. Another being taken with a ſud<g ref="char:EOLhyphen"/>den fit of the winde-collicke runs preſently and en<g ref="char:EOLhyphen"/>ters this his penny worth into Sir <hi>Ajax</hi> his Office as a memoriall of a ſweet ſtrain deriv'd from <hi>Helli<g ref="char:EOLhyphen"/>con.</hi> Another buyes them by the ream to ſtop vineger bottles, and muſtard pots: (brave ware for a pipkin Chandler) ſo that although the Ballad-maker was mad to ſee my book ſo well accepted, and ſo free of ſale, having nothing to twit me with, but that <hi>men bought it to ſee my knavery,</hi> It appears they had more wit than to part with their money and ſpend their time, to reade over his hotch potch of ſimplicity.</p>
+            <p>But I muſt of neceſſity ſpeak of 'em in their order, and firſt of your preamble which thus begins.</p>
+            <q>How now what iſt which I do vainly reade,</q>
+            <p>Ile tell thee what, 'tis that thou haſt as vainly an<g ref="char:EOLhyphen"/>ſwered, whereby thou haſt made it apparent, thy rea<g ref="char:EOLhyphen"/>ding and thy writing to be all as one, both vain and ridiculous. But lets ſee what is it in your judgement.</p>
+            <q>
+               <l>— An hypocritick ſcald,</l>
+               <l>Which did affront</l>
+               <l>true Proteſtantine Heads,</l>
+               <l>No whit belonging</l>
+               <l>unto Papall Heads.</l>
+            </q>
+            <p>Well, I have read of many, and know ſome hypo<g ref="char:EOLhyphen"/>crites,
+<pb n="11" facs="tcp:156916:7"/>but never heard of a ſcalded one before; tru<g ref="char:EOLhyphen"/>ly ſir we ſhould be much beholding to you, in your next reply to give us the definition of ſuch a creature, and how he came into ſuch hot ſervice to be ſcalded, or elſe like <hi>Robin</hi> the <hi>ex tempore</hi> man, tell us 'twas onely to make up rime.</p>
+            <q>Which did affront true Proteſtantine Heads</q>
+            <p>Why heads? I wrote againſt none but the Biſhop of <hi>Canterbury,</hi> unleſſe it be your meaning to parallell him with the ſeven headed Beaſt in the <hi>Revelation,</hi> that carries the Whore of <hi>Babylon</hi> a pick-packe,<note place="margin">Re. 17.3.</note> me thinks that word had an s too much, but that's a ſmall fault among Ballad-makers, yet nevertheleſſe I muſt needs tel you your following con<g ref="char:EOLhyphen"/>cluſion is falſe and very peremp<g ref="char:EOLhyphen"/>tory;<note place="margin">No whit belonging unto Papall heads.</note> it would better a became you firſt to have pro<g ref="char:EOLhyphen"/>ved your Patron a good Proteſtant by his converſa<g ref="char:EOLhyphen"/>tion, and if he were no wayes addicted to Popery, to have entred into a defence of all his ſuperſtitious ceremonies. But inſtead hereof, you like an ignorant caviller confute your ſelfe in one and the ſelfe ſame page, here you write,
+<q>
+                  <l>Which did affront</l>
+                  <l>true Proteſtantine Heads,</l>
+                  <l>No whit belonging</l>
+                  <l>unto Papall Beads.</l>
+               </q>
+            </p>
+            <p>A little below,
+<q>
+                  <l>Each railing fine</l>
+                  <l>I do not now intend</l>
+                  <l>To anſwer, leſt</l>
+                  <l>they cry me the Popes friend.</l>
+               </q>
+            </p>
+            <p>And on the other ſide of the leafe (ſpeaking of the ſame perſon) plainly confeſſes him a practiſer of Romiſh idolatrous ceremonies, as bowing to the Altar, hating Sermons, and abuſing pious Miniſters, I appeal to all the world whether or no this be not a ridiculous ſelfe confutation and full of ſimplicity.</p>
+            <p>But I hope upon a better recollection youl wil<g ref="char:EOLhyphen"/>lingly
+<pb n="12" facs="tcp:156916:8"/>confeſſe your ſaucy preſumption; otherwiſe (I pray marke it) I here challenge you to your face to anſwer me this queſtion. If the Archbiſhop of <hi>Canterbury</hi> never had any inclination to Popery, for what doth he now lie impriſoned in the Tower? And before your right gooſe quill go about it, I adviſe you to look over his Articles, by which the whole Houſe of Commons have charged him with high Treaſon, and make not your ſelfe wiſer than a Parliament, leſt ſoon after we hear you thanking God that you ſca<g ref="char:EOLhyphen"/>ped an halter, to be whipt in <hi>Bridewell.</hi>
+            </p>
+            <p>But what followes? O, the two firſt verſes of my book, and ſee if this bold excrement of Poetry thin<g ref="char:EOLhyphen"/>king my lines to be like his, has not made them both non-ſence;
+<q>
+                  <l>My Lord,</l>
+                  <l>I call you not what long agoe you were,</l>
+                  <l>For now thoſe golden dayes are paſt I fear.</l>
+               </q>
+            </p>
+            <p>So in his; but thus in mine,
+<q>
+                  <l>I call you what not long agoe you were,</l>
+                  <l>But now thoſe golden dayes are paſt I fear.</l>
+               </q>
+            </p>
+            <p>The difference is ſo obvious to every mans capa<g ref="char:EOLhyphen"/>city that I ſhall not need to uſe any words in its ex<g ref="char:EOLhyphen"/>planation, onely this, perhaps lying ever in an Ale-houſe he was halfe foxt when he writ it, or wanted a Booke when he was penning an Anſwer; for indeed that was never printed to be bawl'd by the Ballad-ſingers, had not ſome ſtuttering knave workt another Impreſſion. But what's next.</p>
+            <q>
+               <l>We have a few</l>
+               <l>Which have Saint: like beleefs of which they crack,</l>
+               <l>And ſuch are thoſe which we call Schiſmaticks.</l>
+            </q>
+            <p>Out of which I propound theſe Quaeres, anſwer them if you can, I expect you ſhould; 1. Whether every true Proteſtant ought not to be of a Saint-like
+<pb n="13" facs="tcp:156916:8"/>beleefe; 2. whether men of a ſaintlike beleefe de<g ref="char:EOLhyphen"/>ſerve to be called Schiſmaticks. It followes.</p>
+            <q>
+               <l>And ſuch a one was he who lately writ</l>
+               <l>A Libell to divulge his zealous wit.</l>
+            </q>
+            <p>'Tis ſomething ſtrange ſir, you ſhould be ſo well acquainted with my Religion before ever you ſaw my perſon, which to your knowledge you never did in your life, yet why not? 'tis poſſible you may bee a ſoothſayer, having already as I am credibly infor<g ref="char:EOLhyphen"/>med by the ſpirit of propheſie writ an idle Pam<g ref="char:EOLhyphen"/>phlet, (if not a ballad or two beſides) of the life and death of <hi>William Laud</hi> Archbiſhop of <hi>Canterbury;</hi> who was executed, &amp;c. leaving a ſpace to put in the day of the moneth, which it ſeemes your wiſdome could not juſtly jumpe upon. But now me thinkes like an Herculean ſacrificer he vapours as if he were going to whip the dogs out of the city.</p>
+            <q>
+               <l>Hence ſuperſtition, hence baſe Romiſh weeds,</l>
+               <l>And hence I ſay all hypocritick deeds.</l>
+            </q>
+            <p>He might as wel have ſaid whil'ſt he lookt on his po<g ref="char:EOLhyphen"/>etry.</p>
+            <q>
+               <l>Hence limping lines compos'd b'a brain-ſick quill,</l>
+               <l>Mens heads with fooliſh, witleſſe ſtuffe to fill.</l>
+            </q>
+            <p>But now he proceeds,
+<q>
+                  <l>Suppoſe that he bow'd vainly to the Altar,</l>
+                  <l>For that muſt he be hang'd with inky halter.</l>
+               </q>
+            </p>
+            <p>
+               <hi>With inky halter,</hi> O rare expreſſion, worthy to be tranſlated into hempen, and wound about the Au<g ref="char:EOLhyphen"/>thors necke as a monument of his eloquence to fu<g ref="char:EOLhyphen"/>ture ages;
+<q>
+                  <l>But he at the Name of Ieſus ſtill did bow,</l>
+                  <l>Why not, doth not the Scripture it allow.</l>
+               </q>
+            </p>
+            <p>Doth it ſo? it would then have been a great illu<g ref="char:EOLhyphen"/>ſtration to your argument to have quoted the place, me thinkes I heare you ſay, <hi>Phil.</hi> 2.10. But had the ingenuity of your ſtupified capacity been acquaint<g ref="char:EOLhyphen"/>ed
+<pb n="14" facs="tcp:156916:9"/>with the meaning of an allegoricall expreſſion, you would as ſoon have avouch'd that the Diſciples of Chriſt at his laſt Supper drank really his blood, becauſe at the delivery of the cup he uſed theſe words, <hi>This is my Blood which is ſhed for the remiſsion of ſins, Matth.</hi> 26.28. I am ſure there is no other place tho<g ref="char:EOLhyphen"/>row out the whole Bible that carries with it ſo much as a reſemblance to countenance this popiſh cere<g ref="char:EOLhyphen"/>mony; and this our great Jeſu worſhippers the Bi<g ref="char:EOLhyphen"/>ſhops themſelves are aſham'd to produce; every dull Novice in religion being able to confute it. For who knows not, that there are no knees in heaven to cringe at the Name of Jeſus? now if you will take ſome part of the words literally, ye muſt of neceſſity acknow<g ref="char:EOLhyphen"/>ledge all to be ſo; and ſo conſequently at the ſame time, whether in the Church or other place, being in the ſame manner injoyned by the following words, ye muſt cry out with your mouthes,<note place="margin">2 Phil. 11.</note> 
+               <hi>Ieſus it the Lord,</hi> and who would not condemne this as moſt abſurd and ridiculous. Further note that the text doth not ſay, Every knee ſhall bow at the naming of <hi>Ieſus,</hi> but at the Name, now his Name ſignifies his Power, and bowing of the knee ſubjection to that Power,<note place="margin">Acts 4.</note> and this deny if you can; indeed that thus every man ſhall be ſubject to the Power of <hi>Ieſus</hi> I have often read, and doe moſt faithfully beleeve; but that we muſt bow our knees in outward adoration of his Name, every time we hear it pronounc'd, this is a very falſe and groundleſſe tenent, contrary to the o<g ref="char:EOLhyphen"/>pinion of all reformed Divines in the Chriſtian world, deteſted at this preſent by every true Prote<g ref="char:EOLhyphen"/>ſtant, proved by the writings of many orthodoxe Miniſters to be popiſh and idolatrous, and ſo conſe<g ref="char:EOLhyphen"/>quently
+<pb n="15" facs="tcp:156916:9"/>proteſted againſt by the whole Houſe of Parliament; nay the greateſt part of <hi>England,</hi> and muſt it now be raked up again after ſuch a generall oppoſition, and ſlily thruſt abroad by an ignorant Skip-Iack, that knowes no more what belongs to the true Proteſtant Religion than a very innocent? I intend to try his judgement by theſe quaeres.</p>
+            <p n="1">1. Whether the Name <hi>Ieſus</hi> be greater than <hi>Ieho<g ref="char:EOLhyphen"/>vah?</hi> if not, how we dare be ſo bold as to reverence one above another? 2. Whether bowing to the Name <hi>Ieſus</hi> when it is pronounced, and when we ſee it painted on a wall be not all one? 3. Whether this <hi>Ieſu</hi> worſhip being a humane tradition, deviſed, preſcribed, and impoſed by the will, commandments and doctrines of men bee unlawfull or no, ſeeing Chriſt condemnes it? <hi>Matth.</hi> 15.9. <hi>In vain ſaith he, yee worſhip me, teaching for doctrines the traditions of men.</hi> So the Apoſtle, <hi>Beware leſt any man ſpoile you through philoſophy, and vain deceit, after the tradition of men, after the rudiments of the world, and not after Chriſt, Coloſſ.</hi> 8. In which two places of Scripture, <hi>Herberts</hi> vain queſtion; why, ſeeing God made the knee as well as the heart, both ſhould not lowly bow to his ſervice, is clearly anſwered, the one being re<g ref="char:EOLhyphen"/>quired by God, the other a will-worſhip command<g ref="char:EOLhyphen"/>ed by man: yet ſee how confidently the fellow ſtands upon his pantofles, for ſaith he,
+<q>
+                  <l>Sure Antigeniſt to me thou'ſt ſubſcribe</l>
+                  <l>If thou in hope wert of a ten pound bribs.</l>
+                  <l>O, ſuch a gift would make thee for to ſaulter,</l>
+                  <l>Thou'ſt buy new ſhooes, and ske ſcrape to the alter, <hi>&amp;c.</hi>
+                  </l>
+                  <l>Thou wantedſt money when thou writeſt thy letter,</l>
+                  <l>And by thy Scandall made thy ſtate grow better.</l>
+               </q>
+            </p>
+            <p>Obſerve I beſeech you, how the poor needy wretch
+<pb n="16" facs="tcp:156916:10"/>judges of my condition by his owne, who I dare ſay, ſhould his father or the beſt friend he hath take their <hi>ultimum vale</hi> under Tiburnes dominions, would write a Ballad on it for halfe a Crowne, and this I ſhall make very probable by and by in that which his owne hands have writ againſt the Biſhop whoſe cauſe ſo ſtiffly he now maintaines. But I muſt firſt take ſome other lines in the way.</p>
+            <q>
+               <l>Thou art ſome Poet to the ſhort haird crew,</l>
+               <l>Who long ſince bid to honeſty adue.</l>
+            </q>
+            <p>For the firſt let all the world be judge whether it be not better and more credible to be a Poet to a crew of ſhort haird citizens, that live in fame and eſtimation among their neighbours, than to a com<g ref="char:EOLhyphen"/>pany of louzy Ballad-ſingers that neither know what belongs to God nor any goodneſſe. As for your locks I ſuppoſe they are much longer than your honeſty, and that's a great ſign that yong <hi>Derrick</hi> muſt be your barber. <hi>I wonder much thy name thou durſt not ſhew, <hi>&amp;c.</hi>
+               </hi>
+            </p>
+            <q>
+               <l>It was your modeſty, I do ſuppoſe,</l>
+               <l>Or elſe for fear <hi>Brandon</hi> ſhould get your hoſe.</l>
+            </q>
+            <p>As for my name I will ſtill conceal it on purpoſe to vexe thee; and trouble not your ſelfe about my hoſe, 'twill be more requiſite for you to have a care of your owne three halfe penny breeches, <hi>Gregory</hi> it ſeems has certain hopes of them, having already pre<g ref="char:EOLhyphen"/>pared an oven to bake them in, leaſt otherwiſe he adde to his ſtore, and increaſe the number of his ſix footed cattell.</p>
+            <q>
+               <l>O what an age iſt, which we do live in?</l>
+               <l>One doth offend, another laughs at ſin.</l>
+            </q>
+            <p>See how zealouſly the young man runnes on, but quite beſide the bias, it being not the ſinne wee
+<pb n="17" facs="tcp:156916:10"/>rejoyce at, but the puniſhment of the ſinner, and for this I thinke wee have good ground in the Word of God, <hi>Exod.</hi> 15.1. <hi>to</hi> 20. <hi>Pharaoh</hi> and his hoſt being drowned in the red Sea, <hi>Then</hi> (ſaith the Text) <hi>ſang Moſes and the children of Iſrael this ſong unto the Lord, and ſpake, ſaying, I will ſing unto the Lord, for he hath triumphed gloriouſly, the horſe and his rider hath he throwne into the ſea, &amp;c. Samuel</hi> indeed ſorrowed for the heavy doom he was commanded by the Lord to denounce againſt <hi>Saul,</hi> but was reproved by God for it, <hi>How long</hi> (ſaith he) <hi>wilt thou mourne for Saul, ſeeing I have rejected him from reigning over Iſrael?</hi> 1 <hi>Sam.</hi> 16.1. But more eſpecially upon the fall of <hi>Babylon</hi> is there a command of exultation, <hi>Rejoyce over her thou heaven, and yee holy Apoſtles, and Prophets, for God hath avenged you on her, Rev.</hi> 18.20.<note place="margin">Revel. 21. 1. 2.</note>
+            </p>
+            <p>Thus you ſee it is not unlawfull nor irreligious to rejoyce at the downfall of Gods and the Kings enemies; onely this I ſay and ſpeak it from my heart concerning the Biſhop, as bad as he has been, God grant that the humbling of his fleſh here, (now he ſees what miſery hee hath brought himſelfe to by his miſchievous life) may tend to the ſalvation of his ſoul hereafter, in the day of the Lord Jeſus. But now my detractor begins to fall ſomething ſharpe upon me.</p>
+            <q>
+               <l>O brawling Libeller which lately writ</l>
+               <l>Meer blaſphemy for to divulge thy wit.</l>
+            </q>
+            <p>Here now he hopes he has catcht me tripping bravely, but ſure hee's deceived; yet nevertheleſſe ſe<g ref="char:EOLhyphen"/>cond conſiderations are not amiſſe. Let me looke again therefore, and ſee if I can finde out theſe blaſ<g ref="char:EOLhyphen"/>phemous lines, theſe he ſtumbles at.</p>
+            <pb n="18" facs="tcp:156916:11"/>
+            <q>
+               <l>Bleſt were the man could light on ſuch good hap,</l>
+               <l>To beat out's eyes, with's Babylonian cap.</l>
+            </q>
+            <p>What, what? thinks he (but wants wit to expreſſe it.) Say a man be never ſo vile a ſinner, is it bleſſed<g ref="char:EOLhyphen"/>neſſe therefore to beat his eyes out preſently.</p>
+            <p>I anſwer, though this were written but as the re<g ref="char:EOLhyphen"/>port of the people, and was indeed common (almoſt) in every mans mouth, I muſt of neceſſity quote one place of Scripture to maintain it, and then let <hi>Her<g ref="char:EOLhyphen"/>bert</hi> ſee what godly Ballad he can make to confute it. <hi>Pſal.</hi> 137.8, 9. <hi>O daughter of Babylon, waſted with mi<g ref="char:EOLhyphen"/>ſery, happy ſhall he be that rewardeth thee as thou haſt ſerved us; yea, bleſſed ſhall he be that taketh thy chil<g ref="char:EOLhyphen"/>dren and throweth them againſt the ſtones.</hi> The place yee ſee, is a cleare confirmation of the point in con<g ref="char:EOLhyphen"/>troverſie; and where is all this great clamour of blaſ<g ref="char:EOLhyphen"/>phemy now? But hee'l have another bout with the word.</p>
+            <q>
+               <l>Bleſt were the man, if bleſſedneſſe it were,</l>
+               <l>Authority of time to ſtand in fear.</l>
+            </q>
+            <p>Here I would fain know,<note place="margin">Or perhaps my Lord ſtands in fear of time becauſe lately he was pictu<g ref="char:EOLhyphen"/>red run<g ref="char:EOLhyphen"/>ning to Rome with the Pope on his backe,</note> whether the Biſhop of <hi>Canterbury</hi> (for ſure him he meanes by authority) ſtand in fear of time onely, or the Parliament, or who hath moſt authority, they or he? Me thinkes it is a ſawcy expreſſion, and deſerves the laſh; but who would be troubled with an impudent Ballad-maker? But here at laſt he propounds a queſtion,
+<q>
+                  <l>O ſinfull man, for if man ſo thou art;</l>
+                  <l>Where was thy charity, where thy fleſhy heart?</l>
+               </q>
+            </p>
+            <p>To this I anſwer that it is juſt with God to repay<note n="*" place="margin">The Bi<g ref="char:EOLhyphen"/>ſhop.</note> him with the very ſelfe ſame meaſure which he meted to others; and being without mercy in his proſperity, to make him want mercy in his adver<g ref="char:EOLhyphen"/>ſity; that ſo that of <hi>Solomon</hi> might be fulfilled, <hi>His
+<pb n="19" facs="tcp:156916:11"/>owne iniquities ſhall take the wicked himſelfe, and he ſhall be holden with the cords of his ſins, Prov.</hi> 5.22. But the Biſhop was charitable; that he was indeed, to cut off mens ears, and damne them to perpetuall impriſon<g ref="char:EOLhyphen"/>ment for ſpeaking two or three angry words againſt his lawne ſleeves and rochet, but how ſtrangely was the body of his charity divided, when he hung it up in quarters upon four ſeverall gates, and ſtucke the head on <hi>London-bridge?</hi> Was he not a very mercifull man think you, to make ſuch havock of a poor young fellow, cutting him off on a ſudain in the prime of his yeers, affording him hardly a compleat day to fit himſelfe for his end; and all this becauſe he was took upon ſuſpition to be one of the company that beſet his princely palace at <hi>Lambeth;</hi> this then could be no leſſe than high Treaſon: but now the wheel of fortune is turned, and he that a yeer agone ſate do<g ref="char:EOLhyphen"/>mineering on the top, now lies miſerably groaning under the preſſure of a thouſand calamities. God grant he may lay this his affliction to heart, that ſo when he is bereaved of Grace here, he may receive a crowne of glory hereafter. And now Sir, I ſuppoſe I have reſolved you what my charity is, I hate his body, but love his ſoul, I wiſh he may die by the hand of juſtice a temporall death, but be raiſed by mercy to an eternall life.</p>
+            <p>And now having nothing to ſay, in the laſt place you would fain accuſe me of hypocrifie, and to that end enter upon a large deſcription of the odiouſneſſe thereof, but becauſe you ſpeake without proofe, I weigh not your words, yet nevertheleſſe intend to prove your ſelfe the hypocrite out of your owne writings, In a ballad called, <hi>Alas poor ſcholar.</hi> (For
+<pb n="20" facs="tcp:156916:12"/>no other workes of yours can I alleage, unleſſe it be <hi>Dicke</hi> and <hi>Robin,</hi> the downefall of the new <hi>Bear-gar<g ref="char:EOLhyphen"/>den,</hi> or the like.) This ballad, I ſay, the beſt verſes being made by another, you like a bold cobler un<g ref="char:EOLhyphen"/>dertook to vampe it for halfe a crowne, and this is one of your verſes,
+<q>
+                  <l>I have bow'd,<note place="margin">See alſo a book of his making called Romes ABC conſiſting altogether of jeeres for the Bi<g ref="char:EOLhyphen"/>ſhop.</note> I have bended,</l>
+                  <l>and all in hope</l>
+                  <l>One day to be befriended</l>
+                  <l>I have preacht, I have printed,</l>
+                  <l>What ere I hinted</l>
+                  <l>To pleaſe our Engliſh Pope.</l>
+                  <l>I worſhipt towards the Eaſt,</l>
+                  <l>but the Sun doth now forſake me,</l>
+                  <l>I finde that I am falling,</l>
+                  <l>the Northerne windes do ſhake me:</l>
+                  <l>Would I had béen upright,</l>
+                  <l>for bowing now will break me.</l>
+                  <l>
+                     <hi>Alas poor Scholar, whither wilt thou go?</hi>
+                  </l>
+               </q>
+            </p>
+            <p>Now whether this be not more againſt the Bi<g ref="char:EOLhyphen"/>ſhop than your poor ſilly Anſwer is for him, let any man be judge; which being ſo, to what <hi>caveat</hi> may I better referre you than to your owne Acroſticke, compoſed altogether of ſimplicity and non-ſence?</p>
+            <q>Beware of Hypocriſie, it is the way to Hell.</q>
+            <p>And thus I hope I have given a full Replie to all and every of your frivolous anſwers, to the ample ſatisfaction of all honeſt, reaſonable, and judicious people. It remaines now that I prove your booke to be what moſt falſly you called mine, <hi>Envious, ſcanda<g ref="char:EOLhyphen"/>lous,</hi> and <hi>libellous.</hi>
+            </p>
+            <p>
+               <hi>Envious</hi> it is becauſe you carpe at that which you know not how to anſwer, much leſſe to confute. <hi>Scandalous</hi> it is, for it tends to the diſgrace of Religi<g ref="char:EOLhyphen"/>on,
+<pb n="21" facs="tcp:156916:12"/>maintaining a popiſh Ceremonie to be the true worſhip of God. Laſtly, 'tis very <hi>libellous,</hi> it being as formerly hath been declared, compoſed of no<g ref="char:EOLhyphen"/>thing but lies and falſities. As for the abſurditie of your language, and baſe words, I minde them not, becauſe I know they are more familiar with you than any goodneſſe, elſe had you never writ ſo many in a ſheet of paper: but it is no wonder you breake out into ſuch foul mouth'd ſpeeches, whileſt you eſteem all others like your ſelfe and your company. Beſides nature having ordained the teeth as a hedge to keep in the tongue, yours being all rotten, no marvell to ſee it run ſo at randome.</p>
+            <q>
+               <l>And thus as briefly as I could I have</l>
+               <l>Prov'd my book honeſt, yours baſe, and you a knave.</l>
+            </q>
+         </div>
+         <div type="letter">
+            <head>A concluſive Letter.</head>
+            <p>SIr, finding by the innocent ſimplicity of your late Anſwer to <hi>Mercuries Meſſage,</hi> what a foggie miſt of ignorance hath infected the Globe of your ſmall understanding, and pit<g ref="char:EOLhyphen"/>tying that ſuch a young man ſhould periſh in the gulfe of folly, I have ſpoken to a very lear<g ref="char:EOLhyphen"/>ned Phyſician, an acquaintance of mine, who hath promiſed me to work a rare experiment for the recovery of your wits, which he verily be<g ref="char:EOLhyphen"/>leeves
+<pb n="22" facs="tcp:156916:13"/>are gone a wool-gathering to get a better nap for your ſleepy jacket, onely this he adviſed me to premoniſh you of; you must with much patience prepare your ſelfe to be cut of the ſim<g ref="char:EOLhyphen"/>ples, that ſo your Reply to this ſecond may be a little wiſer than your Anſwer to the first, whilest I endeavour to remain</p>
+            <closer>
+               <signed>Your poor Friend at a pinch MERCURIUS.</signed>
+            </closer>
+         </div>
+         <div type="epilogue">
+            <lg>
+               <l>Now anſwer if you can; nay, if you dare,</l>
+               <l>Id'e gladly ſee't, but never ſhall I fear.</l>
+               <l>No, no, 'tis better Ballads ſtill to write,</l>
+               <l>Of which no wiſe man ever has a ſight:</l>
+               <l>By fools indeed you may applauded be,</l>
+               <l>Becauſe your wit and theirs ſo well agree.</l>
+               <l>But no man elſe can finde in your bald lines</l>
+               <l>The leaſt conceit, that unto wit inclines.</l>
+            </lg>
+            <lg>
+               <l>Farewell, farewell, I ſcorne my muſe ſhould wake her</l>
+               <l>To write againſt a ſilly Ballad maker.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
